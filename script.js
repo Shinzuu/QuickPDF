@@ -4,7 +4,7 @@ function updateExamsTime() {
         { name: "MM CT1", time: new Date("2024-05-12T13:00:00") }, // Example exam data
         { name: "MID start", time: new Date("2024-06-08T10:30:00") },
         { name: "DSML Lab perf", time: new Date("2024-05-13T08:30:00") },
-        { name: "MLD CT1", time: new Date("2024-05-15T10:00:00") },
+        { name: "MLD CT1", time: new Date("2024-05-14T10:00:00") },
         { name: "BIO CT1", time: new Date("2024-05-19T08:30:00") },
         { name: "Final start", time: new Date("2024-08-03T10:30:00") }
     ];
